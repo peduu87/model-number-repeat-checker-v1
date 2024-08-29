@@ -21,7 +21,7 @@ public class Main {
         int[] firstArray = new int[firstSize];
         int[] secondArray = new int[secondSize];
 
-        System.out.println("\n***IT ONLY WORKS FOR NATURAL NUMBERS***\n");
+        System.out.println("\n***IT ONLY WORKS WITH NATURAL NUMBERS***\n");
 
         for (i = 0; i < firstSize; i++) {
             System.out.println("Insert a number to the first array (" + (i+1) + "):");
