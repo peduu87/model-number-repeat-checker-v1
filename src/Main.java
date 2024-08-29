@@ -8,10 +8,10 @@ public class Main {
 
         maxValue = 20;
 
-        System.out.println("Insert the size of the first vector (20 max):");
+        System.out.println("Insert the size of the first array (20 max):");
         firstSize = sc.nextInt();
         firstSize = (firstSize < 0) ? 0 : firstSize;
-        System.out.println("Insert the size of the second vector (20 max):");
+        System.out.println("Insert the size of the second array (20 max):");
         secondSize = sc.nextInt();
         secondSize = (secondSize < 0) ? 0 : secondSize;
 
